@@ -1,10 +1,10 @@
 {
-  "name": "cors-proxy",
+  "name": "cors.hyoo.ru",
   "version": "1.0.0",
   "description": "A simple http proxy that adds cors headers",
   "main": "server.js",
   "repository": "",
-  "author": "Jin <nin-jin+cors-proxy@ya.ru>",
+  "author": "Jin <nin-jin+cors@ya.ru>",
   "dependencies": {
     "http-proxy": "^1.16.2"
   }
